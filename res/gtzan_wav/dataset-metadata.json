@@ -1,0 +1,7 @@
+
+{
+  "title": "GTZAN Music Genre",
+  "description": "The GTZAN music genre original dataset, in .wav format.",
+  "id": "achgls/gtzan-music-genre", 
+  "licenses": [{"name": "CC0-1.0"}]
+}
